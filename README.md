@@ -1,4 +1,4 @@
 Muroidea
 ========
 
-A folder syncing application written in C#
+A network administration application written in C# for third year college project
